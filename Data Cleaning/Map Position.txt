@@ -1,0 +1,6 @@
+Map position: Section of Washington DC
+
+Approximate Latitude Positions: (-77.0525,-770241)
+Approximate Longitude Positions: (38.8863,38.9256)
+
+Reason: It was my college town and was curious to see how clean the nation's capital map data is.

@@ -1,0 +1,12 @@
+References used for the project:
+
+A lot of stackoverlow for bug errors!
+
+openstreetmap.org
+Example project from David Venturi: https://github.com/davidventuri/udacity-dand/blob/master/p3/report.md
+Example project from Jason Carter: https://github.com/jasonicarter/DAND_OpenStreetMap_Data_MongoDB
+OpenStreetMap sample codes from M. Kuehn: https://libraries.io/github/mkuehn10/P3-Wrangle-OpenStreetMap-Data
+
+SQLite tutorial: http://tiffanytimbers.com/building-a-basic-database-from-csv-files-using-sqlite3/
+Regular Expression Operators: https://docs.python.org/2/library/re.html
+Udacity's various lessons and code snippets.

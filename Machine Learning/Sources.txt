@@ -1,0 +1,6 @@
+Sources Used:
+http://scikit-learn.org
+Udacity code from Machine Learning Code
+Github from Daria Alekseeva (http://nbviewer.jupyter.org/github/DariaAlekseeva/Enron_Dataset/blob/master/Enron%20POI%20Detector%20Project%20Assignment.ipynb)
+Github from Tyler Bryers (http://nbviewer.jupyter.org/github/tybyers/Udacity_IntroMachineLearning/blob/master/Question_Responses.ipynb)
+Github from David Venture (github.com/davidventuri)
